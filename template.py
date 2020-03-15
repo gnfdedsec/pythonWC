@@ -1,3 +1,4 @@
-i = 10
-if i == 10 :
- print ("we heve ten")
+x = int(input())
+y = int(input())
+z = x+y
+print(z)
